@@ -6,7 +6,7 @@
 
   
 
-<h1  align="center">Hi <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width=25px>, I'm Lakshay Madhav</h1>
+<h1  align="center">Hi <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width=50px>, I'm Lakshay Madhav</h1>
 
 <h3  align="center">A Tech nerd who is passionate about tech gadgets and stuff</h3>
 
