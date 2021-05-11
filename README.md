@@ -49,7 +49,7 @@
 <img src="https://img.icons8.com/office/40/000000/console.png" alt="Console" title="Consle"/>
 <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" title="Git"/>
 <img src="https://img.icons8.com/color/40/000000/bitbucket.png" alt="BitBucket" title="BitBucket"/>
-<img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/40/000000/bootstrap.png" alt="Bootstrap" title="BootStrap"/>
 <img src="https://img.icons8.com/color/40/000000/flutter.png" alt="Flutter" title="Flutter"/>
 <img src="https://img.icons8.com/color/40/000000/nodejs.png" allt="NodeJS" title="NodeJS"/>
 <img src="https://img.icons8.com/plasticine/40/000000/discord-logo.png" alt="Discord" title="Discord"/>
