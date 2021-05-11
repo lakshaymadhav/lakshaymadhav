@@ -22,7 +22,7 @@
 <h3  align="center">Connect with me:</h3>
 
 <p  align="center">
-<a  href="https://www.lakshaymadhav.in"  target="blank"><img  align="center"  src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="lakshay_madhav"  height="40"  width="40" /></a>
+<a  href="https://www.lakshaymadhav.in"  target="blank"><img  align="center"  src="https://img.icons8.com/dusk/64/000000/domain.png" alt="lakshay_madhav"  height="40"  width="40" /></a>
 <a  href="https://twitter.com/lakshay_madhav"  target="blank"><img  align="center"  src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="lakshay_madhav"  height="40"  width="40" /></a> <a  href="https://linkedin.com/in/lakshay-madhav-m-23853616a"  target="blank"><img  align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="lakshay-madhav-m-23853616a"  height="40"  width="40" /></a> <a  href="https://instagram.com/_lakshay.apk_"  target="blank"><img  align="center"  src="https://img.icons8.com/cotton/100/000000/instagram-new.png" alt="_lakshay.apk_"  height="40"  width="40" /></a>
 </p>
 
