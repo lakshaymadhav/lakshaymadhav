@@ -71,5 +71,7 @@
   
 
 
+<h3  align="center">Github Status :</h3>
+
+
 <p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshaymadhav&show_icons=true&locale=en"  alt="lakshaymadhav" height="225"/></p>
-<p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaymadhav&show_icons=true&locale=en&layout=compact"  alt="lakshaymadhav" height="225"/></p>
