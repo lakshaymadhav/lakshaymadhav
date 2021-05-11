@@ -16,11 +16,9 @@
 
    
 <p align="center">
-- 🌱 I’m currently learning **Data Science**
-
-  
-<p align="center">
-- 💬 Ask me about **Flutter, Html, CSS, JS**
+ <p align="center">- 🌱 I’m currently learning <b>Data Science</b>
+ <p align="center">- 💬 Ask me about <b>Flutter, Html, CSS, JS</b>
+</p>
 
 <h3  align="center">Connect with me:</h3>
 
