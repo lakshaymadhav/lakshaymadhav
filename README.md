@@ -50,7 +50,7 @@
 <img src="https://img.icons8.com/fluent/40/000000/android-os.png"/>
 <img src="https://img.icons8.com/office/40/000000/console.png"/>
 <img src="https://img.icons8.com/color/40/000000/git.png"/>
-<img src="https://img.icons8.com/ios-filled/40/000000/bitbucket.png"/>
+<img src="https://img.icons8.com/color/40/000000/bitbucket.png"/>
 <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/40/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
