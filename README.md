@@ -19,7 +19,6 @@
  <p align="center">- 🌱 I’m currently learning <b>Data Science</b>
  <p align="center">- 💬 Ask me about <b>Flutter, Html, CSS, JS</b>
 </p>
-
 <h3  align="center">Connect with me:</h3>
 
 <p  align="center">
@@ -38,7 +37,8 @@
   <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/> 
   <a  href="https://www.python.org"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/> </a> 
  <a  href="https://dart.dev"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  alt="dart"  width="40"  height="40"/> </a> 
-  <a  href="https://www.gnu.org/software/bash/"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"  alt="bash"  width="40"  height="40"/> </a> 
+  <a  href="https://www.gnu.org/software/bash/"  target="_blank"> <img  src="https://img.icons8.com/plasticine/100/000000/bash.png"  alt="bash"  width="40"  height="40"/> 
+  </a> 
   <a  href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"  target="_blank"> <img  src="https://img.icons8.com/officel/40/000000/xml-file.png"  alt="bash"  width="40"  height="40"/> </a> 
   <img />
 </p>
@@ -64,7 +64,7 @@
 <img src="https://img.icons8.com/color/40/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/40/000000/mongodb.png"/>
-<img src="https://img.icons8.com/pastel-glyph/40/000000/api--v2.png"/>
+<img src="https://img.icons8.com/plasticine/40/000000/api.png"/>
 </p>
  
 
@@ -72,3 +72,4 @@
 
 
 <p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshaymadhav&show_icons=true&locale=en"  alt="lakshaymadhav" height="225"/></p>
+<p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaymadhav&show_icons=true&locale=en&layout=compact"  alt="lakshaymadhav" height="225"/></p>
