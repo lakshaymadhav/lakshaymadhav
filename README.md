@@ -11,32 +11,27 @@
 <h3  align="center">A Tech nerd who is passionate about tech gadgets and stuff</h3>
 
   
+<p align="center">
+<img  src="https://komarev.com/ghpvc/?username=lakshaymadhav&label=Profile%20views&color=0e75b6&style=flat"  alt="lakshaymadhav" />  <a  href="https://twitter.com/lakshay_madhav"  target="blank"><img  src="https://img.shields.io/twitter/follow/lakshay_madhav?logo=twitter&style=for-the-badge"  alt="lakshay_madhav" /></a> </p>
 
-<p  align="left"> <img  src="https://komarev.com/ghpvc/?username=lakshaymadhav&label=Profile%20views&color=0e75b6&style=flat"  alt="lakshaymadhav" /> </p><p  align="left"> <a  href="https://twitter.com/lakshay_madhav"  target="blank"><img  src="https://img.shields.io/twitter/follow/lakshay_madhav?logo=twitter&style=for-the-badge"  alt="lakshay_madhav" /></a> </p>
-
-  
-
-- 🔭 I’m currently working on [Portfolio](https://lakshaymadhav.in)
-
-  
-
+   
+<p align="center">
 - 🌱 I’m currently learning **Data Science**
 
   
-
+<p align="center">
 - 💬 Ask me about **Flutter, Html, CSS, JS**
 
-<h3  align="left">Connect with me:</h3>
+<h3  align="center">Connect with me:</h3>
 
-<p  align="left">
-
+<p  align="center">
+<a  href="https://www.lakshaymadhav.in"  target="blank"><img  align="center"  src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="lakshay_madhav"  height="40"  width="40" /></a>
 <a  href="https://twitter.com/lakshay_madhav"  target="blank"><img  align="center"  src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="lakshay_madhav"  height="40"  width="40" /></a> <a  href="https://linkedin.com/in/lakshay-madhav-m-23853616a"  target="blank"><img  align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="lakshay-madhav-m-23853616a"  height="40"  width="40" /></a> <a  href="https://instagram.com/_lakshay.apk_"  target="blank"><img  align="center"  src="https://img.icons8.com/cotton/100/000000/instagram-new.png" alt="_lakshay.apk_"  height="40"  width="40" /></a>
-
 </p>
 
-<h3  align="left">Languages :</h3>
+<h3  align="center">Languages :</h3>
 
-<p  align="left">
+<p  align="center">
 <a  href="https://www.cprogramming.com/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/> </a>
  <a  href="https://www.w3schools.com/cpp/"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40"  height="40"/> </a>
   <a  href="https://www.java.com"  target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/> </a>
@@ -50,9 +45,9 @@
   <img />
 </p>
   
- <h3  align="left">Tools and Frameworks :</h3>
+ <h3  align="center">Tools and Frameworks :</h3>
 
-<p  align="left">
+<p  align="center">
 <img src="https://img.icons8.com/plasticine/40/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/fluent/40/000000/android-os.png"/>
 <img src="https://img.icons8.com/office/40/000000/console.png"/>
@@ -65,18 +60,18 @@
 <img src="https://img.icons8.com/color/40/000000/linux.png"/>
 <img src="https://img.icons8.com/color/40/000000/figma.png"/>
 </p>
-<h3  align="left">Databases :</h3>
+<h3  align="center">Databases :</h3>
 
-<p  align="left">
+<p  align="center">
 <img src="https://img.icons8.com/color/40/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/40/000000/mongodb.png"/>
 <img src="https://img.icons8.com/pastel-glyph/40/000000/api--v2.png"/>
-
 </p>
  
 
   
 
-<p><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshaymadhav&show_icons=true&locale=en"  alt="lakshaymadhav"/></p>
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaymadhav&show_icons=true&locale=en&layout=compact"  alt="lakshaymadhav"/></p>
+
+<p><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshaymadhav&show_icons=true&locale=en"  alt="lakshaymadhav" height="225"/></p>
+<p><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaymadhav&show_icons=true&locale=en&layout=compact"  alt="lakshaymadhav"/></p>
